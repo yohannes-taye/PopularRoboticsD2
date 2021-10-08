@@ -119,3 +119,8 @@ When you start your Raspberry Pi for the first time, the Welcome to Raspberry Pi
   ![](./img/img18.png)
 * Click on **Restart** to finish the setup. 
 ![](./img/img19.png)
+
+
+<div style="background-color: #4d4745; border-left: 6px solid #098f3e; padding-left: 4px;">
+  <p><strong>Source<br/></strong>https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/0</p>
+</div>
